@@ -21,3 +21,6 @@ We welcome contributions from the community. Please read our contributing guidel
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Extra
+Currently bugged, not finding class Read
