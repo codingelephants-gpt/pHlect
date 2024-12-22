@@ -1,4 +1,4 @@
-# Workspace Description
+# pHlect
 
 Welcome to the `pHlect` repository! This project is designed to help you read files easily.
 
