@@ -58,9 +58,3 @@ def help():
     """)
 
 
-r = Read(r"C:\Users\Gebruiker\Downloads\VS\classtests.py\welcome.py", "Shine", "0")  
-output = r.contents()
-
-exec(output)
-
-help()
